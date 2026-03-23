@@ -1,0 +1,52 @@
+{
+  "name": "Code Genius - AI Code Assistance",
+  "version": "1.0.0",
+  "description": "A fully functional AI-powered code assistance application using OpenRouter API",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "AI",
+    "Code Analysis",
+    "OpenRouter",
+    "Code Assistance",
+    "JavaScript",
+    "Tailwind CSS"
+  ],
+  "api": {
+    "provider": "OpenRouter",
+    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+    "model": "stepfun/step-3.5-flash:free",
+    "timeout": 60000,
+    "retries": 3
+  },
+  "ui": {
+    "theme": "dark",
+    "accentColor": "#3b82f6",
+    "animationsEnabled": true,
+    "responsiveLayout": true
+  },
+  "features": {
+    "autoSave": true,
+    "conversationHistory": true,
+    "syntaxHighlighting": true,
+    "keyboardShortcuts": true,
+    "darkMode": true
+  },
+  "defaults": {
+    "temperature": 0.7,
+    "maxTokens": 2000,
+    "topP": 1.0,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0
+  },
+  "shortcuts": {
+    "send": "Ctrl+Enter",
+    "focus": "Ctrl+K",
+    "blur": "Escape"
+  },
+  "storage": {
+    "apiKey": "openrouterApiKey",
+    "appState": "appState",
+    "theme": "theme"
+  }
+}
