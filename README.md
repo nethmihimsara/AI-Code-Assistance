@@ -1,3 +1,10 @@
+<img width="1366" height="721" alt="image" src="https://github.com/user-attachments/assets/d666a192-3128-4a67-9674-54fa9b3e22cf" />
+<img width="1366" height="721" alt="Screenshot (679)" src="https://github.com/user-attachments/assets/1df067e8-7a48-407b-a28a-c37a5bf3a9f7" />
+<img width="1366" height="727" alt="Screenshot (680)" src="https://github.com/user-attachments/assets/f08cb107-211e-4053-acd4-6f2e1bea2286" />
+<img width="1366" height="727" alt="Screenshot (681)" src="https://github.com/user-attachments/assets/139f9897-26cd-4b30-8c04-4f82b5be86a5" />
+<img width="1366" height="719" alt="Screenshot (682)" src="https://github.com/user-attachments/assets/e5c4f1b0-56f3-424c-a966-0c3451fda376" />
+<img width="1366" height="725" alt="Screenshot (683)" src="https://github.com/user-attachments/assets/f8562d12-06cf-4cc2-911f-5b871092aba4" />
+
 # AI Code Assistance - Code Genius
 
 A fully functional AI-powered code assistance application built with HTML, CSS, and JavaScript. Integrated with OpenRouter API using the `stepfun/step-3.5-flash:free` model.
